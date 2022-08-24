@@ -33,6 +33,27 @@ sudo apt update
 # sudo apt install libeigen3-dev
 sudo apt update
 ```
+3. Crear enlace simbólico de Eigen 
+```
+# ln -sf  /usr/include/eigen3/Eigen Eigen
+ln -sf  /usr/include/eigen3/unsupported unsupported
+sudo apt update
+```
+4. Instalar BOOST
+```
+#sudo apt-get install libboost-all-dev
+sudo apt update
+```
+5. Crear enlace simbólico de BOOST
+```
+#ln -sf /usr/include/boost boost
+sudo apt update
+```
+6. Instalar de CMAKE
+```
+#sudo apt install cmake
+sudo apt update
+```
 3. Abrir el proyecto en Qt
 4. Agregar la opción 'Ejecutar desde terminal' en la configuración de Qt
 5. Ejecutar el proyecto
