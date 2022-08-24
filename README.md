@@ -19,7 +19,7 @@
 
 
 <br>
-Para ejecutar el siguiente proyecto
+#Para ejecutar el siguiente proyecto
 
 
 1. Descargar e instalar Qt Creator 5
