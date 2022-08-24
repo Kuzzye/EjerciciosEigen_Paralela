@@ -16,7 +16,10 @@
 <br>
 </p>
 
-
+# Ejercicios Planteados
+  ![imagen](https://user-images.githubusercontent.com/79543099/186307070-3d4fe743-9871-4b79-863d-d76b6986595f.png)
+# Soluciones Deseadas
+  ![imagen](https://user-images.githubusercontent.com/79543099/186307301-45cf9428-1117-41f6-8cbe-2cadcbeb1b70.png)
 # Para ejecutar el siguiente proyecto
 
 
