@@ -21,6 +21,8 @@
 <br>
 Para ejecutar el siguiente proyecto
 <br>
+</FONT>
+</div>
 
 1. Descargar e instalar Qt Creator 5
 2. Instalar Eigen
