@@ -20,6 +20,7 @@
 
 <br>
 Para ejecutar el siguiente proyecto
+</div>
 <br>
 
 1. Descargar e instalar Qt Creator 5
