@@ -17,7 +17,6 @@
 </p>
 
 
-<br>
 # Para ejecutar el siguiente proyecto
 
 
