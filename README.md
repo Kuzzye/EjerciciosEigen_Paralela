@@ -24,7 +24,15 @@
 
 
 1. Descargar e instalar Qt Creator 5
+```
+# sudo apt install qtcreator
+sudo apt update
+```
 2. Instalar Eigen
+```
+# sudo apt install libeigen3-dev
+sudo apt update
+```
 3. Abrir el proyecto en Qt
 4. Agregar la opción 'Ejecutar desde terminal' en la configuración de Qt
 5. Ejecutar el proyecto
