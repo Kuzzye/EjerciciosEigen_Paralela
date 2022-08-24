@@ -18,8 +18,8 @@
 </div>
 
 
-
-##Para ejecutar el siguiente proyecto
+<br>
+Para ejecutar el siguiente proyecto
 
 
 1. Descargar e instalar Qt Creator 5
